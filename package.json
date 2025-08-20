@@ -1,5 +1,14 @@
 {
-  "dependencies": { "gsap": "^3.13.0", "normalize.css": "^8.0.1", "react": "^19.1.1", "react-dom": "^19.1.1", "three": "^0.179.1" },
+  "scripts": {
+    "start": "vite"
+  },
+  "dependencies": { 
+    "gsap": "^3.13.0", 
+    "normalize.css": "^8.0.1", 
+    "react": "^19.1.1", 
+    "react-dom": "^19.1.1", 
+    "three": "^0.179.1" 
+  },
   "devDependencies": {
     "@biomejs/biome": "^2.2.0",
     "@types/node": "^24.3.0",
